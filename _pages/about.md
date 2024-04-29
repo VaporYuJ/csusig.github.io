@@ -6,31 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+CSU-SIG
+Welcome to the Laboratory of Software Quality and Security in Industrial Network Systems at the School of Electronic Information, Central South University!
+
 This is the homepage of the School of Electronic Information at Central South University
 The mentor is Shi Heyuan, 
-email  :(shiheyuan@csu.edu.cn)
-Google Academic homepag  :(https://scholar.google.com/citations?hl=zh-CN&user=30hFs1cAAAAJ)
-personal homepage   :(https://shiheyuan.github.io)
+ [Personal email]:(shiheyuan@csu.edu.cn)
+ [Google Academic homepage]:(https://scholar.google.com/citations?hl=zh-CN&user=30hFs1cAAAAJ)
+ [GitHub pages]:(https://shiheyuan.github.io)
 
 
-A data-driven personal website
+Research Focus
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Our research primarily revolves around fundamental software quality assurance and security in open-source operating system ecosystems, with a special emphasis on addressing software quality and security issues in fundamental software, cloud-native, and industrial network systems. Dr. Heyuan Shi has authored or co-authored over 20 papers published in renowned CCF-A/B category journals such as FSE, TSE, RTSS, ISSTA, EMSOFT, TCAD, and SANER, and holds 7 granted national invention patents.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Collaborations
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+CSUSIG maintains long-term collaborations with prestigious institutions such as the School of Software, Tsinghua University, the Alibaba Cloud Basic Software Operating System Department, and the DragonLizard Open Source Community. We welcome students and researchers to join our team and engage in meaningful collaborations.
 
-Site-wide configuration
+Team Members
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+We have a dynamic and creative team consisting of professors, doctoral students, master's students, and undergraduate students. They come from diverse academic backgrounds and work together to address practical problems and advance the discipline.
 
 Create content & metadata
 ------
