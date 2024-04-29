@@ -6,11 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the team homepage of SIG Laboratory, School of Electronic Information, Central South University. Here, you can learn about the basic information of our Happy Laboratory, including 	**Mentor Information**, 	**Team members**, 	**Research Focus**, and contact and **Collaborations**！
+
+The SIG Laboratory at the School of Electronic Information, Central South University, Railway Institute, is truly an impressive team! Focusing on software quality and security issues in fundamental software, cloud-native, and industrial network systems, they actively explore cutting-edge technologies and have made outstanding contributions to industry advancement. The laboratory has achieved remarkable academic success, publishing numerous high-quality papers in renowned journals and conferences, thus providing important research outcomes to the academic community. Additionally, the laboratory maintains long-term collaborations with top institutions such as the School of Software, Tsinghua University, and the Alibaba Cloud Basic Software Operating System Department, fostering academic exchange and cooperation. Moreover, the team offers enrollment opportunities for graduate students, providing valuable learning and research opportunities for aspiring scholars in the field of software quality and security. Through continuous efforts and a spirit of collaboration, the SIG Laboratory is poised to achieve even greater success in the future!
+
+------
+This is the team homepage of SIG Laboratory, School of Electronic Information, Central South University. Here, you can learn about the basic information of our Happy Laboratory, including 	**Mentor Information**, 	**Team members**, 	**Research Focus**, and **Collaborations**！
 
 Mentor Information
 ------
-**Shi Heyuan** is a specially appointed associate professor at the School of Electronic Information at Central South University, a "Xiaohe" technology talent in the Hunan Provincial Science and Technology Talent Support Project, and the deputy director of the Hunan Provincial Water Treatment Digital Engineering Technology Research Center.  Published over 20 papers as first author or corresponding author in CCF-A/B journals such as FSE, TSE, RTSS, ISSTA, EMSOFT, TCAD, SANER, etc., and granted 7 national invention patents. Hosted projects such as the National Natural Science Foundation Youth Project, the Ministry of Science and Technology Key R&D Project Sub project, the Hunan Provincial Natural Science Foundation Youth Project, the Changsha Science and Technology Major Special Project, the Ministry of Education Industry University Cooperation Collaborative Education Project, and the Hunan Provincial Education Science "14th Five Year Plan" 2023 Degree Base Project.
+**Shi Heyuan** ![heyuan]("")
  [Personal email]:(shiheyuan@csu.edu.cn)
  [Google Academic homepage]:(https://scholar.google.com/citations?hl=zh-CN&user=30hFs1cAAAAJ)
  [GitHub pages]:(https://shiheyuan.github.io)
